@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aadit%20Jain&fontSize=64&fontColor=00E5A0&fontAlignY=40&desc=AI%20%2F%20ML%20%C2%B7%20Quantitative%20Finance&descSize=20&descColor=C9D1D9&descAlignY=62" alt="Aadit Jain banner" width="100%" />
+<img src="./banner.svg" alt="Aadit Jain banner" width="100%" />
 
 <a href="https://linkedin.com/in/aadit-jain11"><img src="https://img.shields.io/badge/LINKEDIN-AADIT%20JAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:aaditjain1107@gmail.com"><img src="https://img.shields.io/badge/EMAIL-AADITJAIN1107@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css,mysql&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,fastapi,docker,gcp,git,github,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,docker,gcp,git,github,figma&theme=dark" alt="Tools" />
 </div>
 
 <br/>
@@ -93,6 +93,6 @@
 
 **Let's connect:** [LinkedIn](https://linkedin.com/in/aadit-jain11) · [Email](mailto:aaditjain1107@gmail.com) · [Medium](https://medium.com/@aaditjain1107)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%" />
+<img src="./footer.svg" alt="footer" width="100%" />
 
 </div>
